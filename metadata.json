@@ -1,0 +1,6 @@
+{
+  "name": "Device Feature Lab",
+  "description": "An interactive AI-powered assistant integrated with live device features like maps, weather, notifications, and physical hardware tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
